@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">ConstraintLay</string>
+    <string name="email">Email</string>
+    <string name="password">Senha</string>
+    <string name="login">Login</string>
+    <string name="user_dont_register">não é cadastrado? Clique aqui!!</string>
+</resources>
